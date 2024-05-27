@@ -20,7 +20,7 @@ def retrieve_first_element_from_list(l):
     return l[0]
 
 def retrieve_element_from_index(l, index):
-    return l[l, []]
+    return l[index]
 
 def retrieve_last_element_from_list(l):
     return l[-1]
